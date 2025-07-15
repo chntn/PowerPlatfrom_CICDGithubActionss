@@ -25,7 +25,7 @@ on:
        default: solutions/
 env:
 #edit your values here
-  ENVIRONMENT_URL: 'http://devpowerplat.crm.dynamics.com'
+  ENVIRONMENT_URL: 'https://devpowerplat.crm.dynamics.com'
   USERNAME: 'SPLearn@demospnew.onmicrosoft.com'
   CLIENT_ID: '9a2232d7-23d6-410e-a604-abc18037e832'
   TENANT_ID: '84f6f424-f645-444e-a509-745000b0d926'
